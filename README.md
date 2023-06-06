@@ -1,3 +1,4 @@
+Git Clone and run the below commands
 1. composer install
 2. composer dump-autoload
 3. npm install
